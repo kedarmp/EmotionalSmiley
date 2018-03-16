@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EmotionalSmiley">
+        <attr name="faceColor" format="color"/>
+        <attr name="eyesColor" format="color"/>
+        <attr name="mouthColor" format="color"/>
+        <attr name="borderColor" format="color"/>
+        <attr name="startSmile" format="float"/>
+    </declare-styleable>
+
+</resources>
